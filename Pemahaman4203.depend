@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1520323198 source:d:\pemahaman4203\fungsi.c
+	"header.h"
+
+1520324703 d:\pemahaman4203\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1520322006 source:d:\pemahaman4203\main.c
+	"header.h"
+
